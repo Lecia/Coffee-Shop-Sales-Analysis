@@ -21,8 +21,8 @@ Objectives:
 
  - To create visually appealing dashboards in Excel that clearly communicate insights.
 
-To present data-driven recommendations to improve sales performance.
+ - To present data-driven recommendations to improve sales performance.
 
-To suggest next steps for long-term improvements like automated reporting and loyalty programs.
+ - To suggest next steps for long-term improvements like automated reporting and loyalty programs.
 
 
