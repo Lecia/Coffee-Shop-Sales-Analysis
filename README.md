@@ -17,12 +17,7 @@ Objectives:
 
  - To uncover daily, weekly, and monthly sales trends across product categories.
 
- - To clean and transform raw data using Snowflake for accurate analysis.
-
- - To create visually appealing dashboards in Excel that clearly communicate insights.
-
  - To present data-driven recommendations to improve sales performance.
 
- - To suggest next steps for long-term improvements like automated reporting and loyalty programs.
 
 
