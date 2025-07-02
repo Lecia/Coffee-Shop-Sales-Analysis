@@ -14,43 +14,43 @@ Bright Coffee Shop has experienced fluctuations in product sales and customer ac
 Objectives:
 
 
-•	Analyze historical transactional data to identify revenue drivers and weak products.
+• Analyze historical transactional data to identify revenue drivers and weak products.
 
-•	Determine peak time slots based on customer purchasing behavior.
+• Determine peak time slots based on customer purchasing behavior.
 
-•	Uncover sales trends across products and time intervals.
+• Uncover sales trends across products and time intervals.
 
-•	Present data-driven recommendations for marketing, stock, and operational strategies.
+• Present data-driven recommendations for marketing, stock, and operational strategies.
 
 Aims:
 
 
-•	Equip the new CEO with a comprehensive understanding of Bright Coffee Shop’s sales performance.
+• Equip the new CEO with a comprehensive understanding of Bright Coffee Shop’s sales performance.
 
-•	Support strategic decisions that can lead to increased profitability and operational efficiency.
+• Support strategic decisions that can lead to increased profitability and operational efficiency.
 
-•	Lay the foundation for future analytics and automation within the business.
+• Lay the foundation for future analytics and automation within the business.
 
 Tools Used:
 
 
-•	Data Processing & Storage:
+• Data Processing & Storage:
  
-	o	Snowflake – for loading, cleaning, transforming, and analyzing transactional data
+     o Snowflake – for loading, cleaning, transforming, and analyzing transactional data
  
-	o	SQL – for aggregations, time-based grouping, and metric calculations
+     o SQL – for aggregations, time-based grouping, and metric calculations
 
-•	Data Analysis & Visualization:
+• Data Analysis & Visualization:
 
-	o	Microsoft Excel – for dashboards, pivot tables, and graphs
+     o Microsoft Excel – for dashboards, pivot tables, and graphs
 
-•	Planning & Documentation:
+• Planning & Documentation:
 
-	o	Miro – for Data Flow & Architecture Diagram
+     o Miro – for Data Flow & Architecture Diagram
 
-•	Presentation: 
+• Presentation: 
 
- o	CANVA - for executive presentation
+     o CANVA - for executive presentation
 
 Recommendations:
 
