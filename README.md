@@ -61,5 +61,5 @@ Based on the analysis, the following actions are recommended:
 
 •	Stock and feature bestsellers prominently, especially for morning demand: Espresso, Chai Tea, and Green Beans.
 
-•	Promote underperforming products creatively, or reevaluate them altogether—especially items with consistently low sales.
+•	Promote underperforming products creatively, or reevaluate them altogether, especially items with consistently low sales.
 
