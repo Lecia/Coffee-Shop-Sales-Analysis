@@ -1,17 +1,17 @@
 # Coffee-Shop-Sales-Analysis
 Coffee Shop Sales Analysis
 
-Introduction:
+**Introduction:**
 
 
 This repository presents a sales data analysis project for Bright Coffee Shop, aimed at delivering valuable business insights to support the strategic decisions of a newly appointed CEO. The project uses historical transactional data to understand sales patterns, identify high-performing products, and highlight opportunities for revenue growth. As a Data Analyst, I utilized SQL, Excel, and MIRO, CANVA to extract, process, analyze, and present key insights from the data.
 
-Problem Statement:
+**Problem Statement:**
 
 
 Bright Coffee Shop has experienced fluctuations in product sales and customer activity throughout the day. With a new CEO onboard, there is a pressing need to identify which products drive revenue, understand customer purchasing patterns, and uncover underperforming areas. However, the data had not been previously analyzed in-depth, and the business lacked actionable insights to support data-driven decisions.
 
-Objectives:
+**Objectives:**
 
 
 • Analyze historical transactional data to identify revenue drivers and weak products.
@@ -22,7 +22,7 @@ Objectives:
 
 • Present data-driven recommendations for marketing, stock, and operational strategies.
 
-Aims:
+**Aims:**
 
 
 • Equip the new CEO with a comprehensive understanding of Bright Coffee Shop’s sales performance.
@@ -31,7 +31,7 @@ Aims:
 
 • Lay the foundation for future analytics and automation within the business.
 
-Tools Used:
+**Tools Used:**
 
 
 • Data Processing & Storage:
@@ -52,7 +52,7 @@ Tools Used:
 
      o CANVA - for executive presentation
 
-Recommendations:
+**Recommendations:**
 
 
 Based on the analysis, the following actions are recommended:
