@@ -57,9 +57,5 @@ Bright Coffee Shop has experienced fluctuations in product sales and customer ac
 
 Based on the analysis, the following actions are recommended:
 
-•	Run marketing campaigns during slow periods (e.g., “Afternoon Perks” or “Evening Chill Deals”) to lift non-peak traffic.
-
-•	Stock and feature bestsellers prominently, especially for morning demand: Espresso, Chai Tea, and Green Beans.
-
-•	Promote underperforming products creatively, or reevaluate them altogether, especially items with consistently low sales.
+Bright Coffee Shop should run targeted promotions during low-performing evening hours and ensure best-selling items like Barista Espresso and Brewed Black Tea are always in stock, especially in top-performing locations like Astoria. Underperforming products such as Packaged Chocolate and Frozen Items should be reviewed or bundled with popular items to boost sales. A simple loyalty program for morning customers could also increase repeat purchases.
 
