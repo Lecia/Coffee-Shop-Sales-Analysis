@@ -57,5 +57,6 @@ Bright Coffee Shop has experienced fluctuations in product sales and customer ac
 
 Based on the analysis, the following actions are recommended:
 
-Bright Coffee Shop should run targeted promotions during low-performing evening hours and ensure best-selling items like Barista Espresso and Brewed Black Tea are always in stock, especially in top-performing locations like Astoria. Underperforming products such as Packaged Chocolate and Frozen Items should be reviewed or bundled with popular items to boost sales. A simple loyalty program for morning customers could also increase repeat purchases.
+Focus on best-sellers like Brewed Chai Tea and Gourmet Brewed Coffee by promoting them more and bundling with snacks to increase spending. Leverage the busy morning period with exclusive deals and ensure staffing and stock are optimized. To improve low evening sales, introduce "Happy Hour" offers or create a more relaxed, inviting atmosphere.
+Bakery items generate strong revenue and can be used to complement popular drinks. Customize product promotions per store based on their strengths — for example, focus on Coffee in Hell’s Kitchen and Tea in Astoria. Lastly, consider phasing out low-performing products like Packaged Chocolate and Loose Tea to focus on what sells best.
 
